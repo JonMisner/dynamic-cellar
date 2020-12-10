@@ -1,0 +1,41 @@
+.wine {
+    /* background-image: url(wine-cellar-2430651_1920.jpg); */
+    color: white;
+    /* height: 3em; */
+    margin: 0em;
+    
+}
+
+.center {
+    display: flex
+}
+
+.screen { 
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.body { 
+    background-image: url(../frontPage/wine-cellar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0.5em;
+}
+
+.main {
+    background: rgba(255, 255, 255, 0);
+    padding-top: 0em;
+}
+
+.components {
+    background: rgba(50.2, 0, 12.5, .9);
+    background-size: cover;
+    width:100%;
+    color: white;
+    padding: 0em;
+}
+
+.map {
+    padding: 0em;
+    background: rgba(50.2, 0, 12.5,0);
+}
